@@ -7,8 +7,8 @@ public class Account
 
 	public Account()
 	{
-		balance = 0;
-		interest = 0;
+		balance = 1000;
+		interest = 9;
 	}
 
 	public Account(double initialBalance, double initialInterest)
